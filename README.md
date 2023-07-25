@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gandhi369
-- 👀 I’m interested in Coding/Programming
+- 👀 I’m interested in Coding/Programming language like C/C++/Python/DSA
 - 🌱 I’m currently learning Python, DSA
 - 📫 reach me through Linkedin Gandhi Krishna
 
